@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Grant OShea - HW13"
+  navbar:
+    left:
+      - href: about.qmd
+        text: Home
+      - href: Hobbies.qmd
+        text: Hobbies
+
+
+format:
+  html:
+    theme: vapor
+    css: styles.css
+    toc: true
+    output-dir: docs
+    resources: "site_libs"
+    embed-resources: false
+    page-layout: full
+    relative-links: true
+    
+

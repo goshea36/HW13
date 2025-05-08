@@ -1,0 +1,25 @@
+---
+title: "Hobbies"
+format:
+  html:
+    page-layout: full
+---
+
+
+
+### Basketball
+
+I enjoy playing professional basketball when I have the time. I have won several NBA and Olympic championships. Enjoy this picture. 
+
+
+![Me Hooping](basketball.jpg)
+
+
+### Eating
+
+I enjoy eating professionally. I have won many contests. I am also a master sommelier. It's cool.
+
+
+### Creating Room Temperature Superconductors
+
+In my free time I make room temp superconductors, I do not release them, I just enjoy making them better and better. 

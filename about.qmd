@@ -1,0 +1,35 @@
+---
+title: "Grant-OShea HW-13"
+image: denver-nuggets-logo.jpeg
+about:
+  template: trestles
+  image-width: 10em
+  image-shape: round
+  links:
+    - icon: envelope-at-fill
+      text: Email
+      href: mailto:grant@gmail.com
+    - icon: github
+      text: GitHub
+      href: https://github.com
+---
+
+This is my first published Quarto website. Assignment 13 in Math3376.
+
+## Skills
+
+- Data Wrangling & Visualization
+- Flying
+- Walking Fast
+
+## Education
+
+University of Colorado Denver | Denver, CO
+BS & BA in Mathematics and Economics | Sept 2000 - June 2025
+
+Happy Town Preschool | Happy Town, USA
+Degree | 1998-1999
+
+The University of Oxford | Oxford, UK
+Ph.D. in Philosophical & Doctoral Studies | June 2015 - Sept 2020
+
